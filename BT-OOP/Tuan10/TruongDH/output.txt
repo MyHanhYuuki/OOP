@@ -1,0 +1,9 @@
+-------------------------------
+MS: 20520737	Ten: John Lee	Khoa: CNPM	Loai: SV
+DRL: 86	DTB: 8.1	Tien Thuong: 0
+-------------------------------
+MS: 2515161	Ten: Kong Ultimate	Khoa: KTMT	Loai: GV
+So bai bao: 5	Tien Thuong: 110000000
+-------------------------------
+MS: 0151510	Ten: NV Sieu Cap	Khoa: KHMT	Loai: NV
+So sang kien: 5	Tien Thuong: 18000000
